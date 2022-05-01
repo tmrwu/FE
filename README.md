@@ -1,2 +1,2 @@
 # FE
-Html, CSS, Javascript
+HTML, CSS, Javascript
